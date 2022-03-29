@@ -13,3 +13,34 @@ body {
     opacity: 0.9;
     text-align: center; 
 }
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: seashell;
+}
+
+/* Header styles */
+header {
+    padding: 10px;
+    display: flex;
+    height: 50px;
+    border-bottom: 1px solid seashell;
+}
+
+.main-site-nav {
+    display: flex;
+    margin-left: auto;
+    height: 50px;
+    align-items: center;
+}
+
+.main-site-nav li {
+    margin: 15px;
+}
+
+header img {
+    height: 50px;
+}
