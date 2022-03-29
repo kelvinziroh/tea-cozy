@@ -130,3 +130,9 @@ header img {
 .contacts-info h5 {
     margin: 40px;
 }
+
+/* Footer styles */
+footer {
+    padding: 20px;
+    text-align: left;
+}
