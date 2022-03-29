@@ -1,0 +1,15 @@
+/* Remove the browsers default styles */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* General styling */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center; 
+}
