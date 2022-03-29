@@ -46,6 +46,7 @@ header img {
 }
 
 /* Main content styles */
+/* header-hero-banner section */
 .header-hero-banner {
     width: 1200px;
     height: 700px;
@@ -60,4 +61,34 @@ header img {
 .header-banner-content {
     background-color: black;
     padding: 15px;
+}
+
+/* tea-info section */
+.tea-info {
+    width: 1000px;
+    margin: 80px auto 0 auto;
+}
+
+.tea-info h2,
+.tea-info h4 {
+    padding: 10px;
+}
+
+.tea-info-images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tea-info-images figure {
+    margin: 15px;
+}
+
+.tea-info-images figcaption {
+    font-weight: bold;
+}
+
+.tea-info img {
+    width: 300px;
+    height: 200px;
 }
